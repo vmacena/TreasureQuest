@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureQuest.API", "TreasureQuest.API\TreasureQuest.API.csproj", "{9A9B8E4A-9D1A-4322-B056-AA5CD71A88DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureQuest.Business", "TreasureQuest.Business\TreasureQuest.Business.csproj", "{92E82DE4-A3EA-454E-BDAA-28409F5C2DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureQuest.Common", "TreasureQuest.Common\TreasureQuest.Common.csproj", "{A362B9D7-234E-4BF2-9D70-E5B634ED0A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureQuest.Core", "TreasureQuest.Core\TreasureQuest.Core.csproj", "{5AA7CB1D-E471-4D78-92B7-92BF6616A905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A9B8E4A-9D1A-4322-B056-AA5CD71A88DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9B8E4A-9D1A-4322-B056-AA5CD71A88DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9B8E4A-9D1A-4322-B056-AA5CD71A88DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9B8E4A-9D1A-4322-B056-AA5CD71A88DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E82DE4-A3EA-454E-BDAA-28409F5C2DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E82DE4-A3EA-454E-BDAA-28409F5C2DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E82DE4-A3EA-454E-BDAA-28409F5C2DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E82DE4-A3EA-454E-BDAA-28409F5C2DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A362B9D7-234E-4BF2-9D70-E5B634ED0A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A362B9D7-234E-4BF2-9D70-E5B634ED0A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A362B9D7-234E-4BF2-9D70-E5B634ED0A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A362B9D7-234E-4BF2-9D70-E5B634ED0A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA7CB1D-E471-4D78-92B7-92BF6616A905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA7CB1D-E471-4D78-92B7-92BF6616A905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA7CB1D-E471-4D78-92B7-92BF6616A905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA7CB1D-E471-4D78-92B7-92BF6616A905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
