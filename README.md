@@ -25,13 +25,6 @@ dotnet restore
 dotnet run
 ```
 
-### Frontend
-```bash
-cd ../frontend
-npm install
-npm start
-```
-
 ## 📄 Estrutura do Banco de Dados
 - **users** → Armazena os usuários do sistema.
 - **hunts** → Representa cada caça ao tesouro criada.
