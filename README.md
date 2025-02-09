@@ -11,18 +11,18 @@ TreasureQuest é um sistema para criar e organizar caças ao tesouro, gerando au
 - Exportação das pistas em PDF.
 
 ## 🛠️ Tecnologias Utilizadas
-- **Frontend:** React (ou Flutter para mobile)
-- **Backend:** Node.js com Express / Python com Flask
+- **Frontend:** React (ou Blazor para web)
+- **Backend:** C# com .NET
 - **Banco de Dados:** PostgreSQL
-- **Hospedagem:** AWS / Firebase Hosting
+- **Hospedagem:** Azure / AWS
 
 ## 📦 Como Rodar o Projeto
 ### Backend
 ```bash
 git clone https://github.com/seu-usuario/treasurequest.git
 cd treasurequest/backend
-npm install
-npm start
+dotnet restore
+dotnet run
 ```
 
 ### Frontend
