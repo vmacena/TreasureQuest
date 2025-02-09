@@ -14,7 +14,7 @@ TreasureQuest é um sistema para criar e organizar caças ao tesouro, gerando au
 - **Frontend:** React (ou Blazor para web)
 - **Backend:** C# com .NET
 - **Banco de Dados:** PostgreSQL
-- **Hospedagem:** Azure / AWS
+- **Hospedagem:** ?
 
 ## 📦 Como Rodar o Projeto
 ### Backend
